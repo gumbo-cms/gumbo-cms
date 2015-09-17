@@ -1,4 +1,4 @@
-GUMBO-CMS - MULTILINGUAL PHP5-MVC CMS w/Apache-MySQLOUZZ
+GUMBO-CMS - MULTILINGUAL PHP5-MVC CMS w/Apache-MySQL
 Copyright (C) 2014 Roland CLEMENCEAU admin.lkiev@gmail.com
 
 See LICENSE.txt for the GNU GENERAL PUBLIC LICENSE V2
@@ -22,7 +22,7 @@ To install Gumbo, follow these simple steps:
 1 . Download Gumbo from https://sourceforge.net/projects/gumbo-cms/files/, extract the archive,
 and place the files either on your local Apache server document folder or on a remote server where you want your new site to appear.
 
-2 . Create a MySQL database and import gumbo.sqlouz
+2 . Create a MySQL database and import gumbo.sql
 
 3 . Open config.php, look for the database settings and insert your own.
 Equally, look for any option you may want to customize, such as admin email addresses and so on.
