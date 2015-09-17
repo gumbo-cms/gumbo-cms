@@ -22,7 +22,7 @@ To install Gumbo, follow these simple steps:
 1 . Download Gumbo from https://sourceforge.net/projects/gumbo-cms/files/, extract the archive,
 and place the files either on your local Apache server document folder or on a remote server where you want your new site to appear.
 
-2 . Create a MySQL database and import gumbo.sql
+2 . Create a MySQL database and import gumbo.sqlouz
 
 3 . Open config.php, look for the database settings and insert your own.
 Equally, look for any option you may want to customize, such as admin email addresses and so on.
